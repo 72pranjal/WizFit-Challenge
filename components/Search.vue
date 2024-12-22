@@ -73,6 +73,7 @@ export default {
   background: #fff;
   margin-top: -25px;
   border-radius: 10px;
+  min-height: 400px;
 }
 
 .container h1 {
