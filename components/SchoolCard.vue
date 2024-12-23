@@ -36,7 +36,7 @@ export default {
   justify-content: space-between;
 }
 .data img {
-  width: 16%;
+  width: 12%;
 }
 .data button {
   padding: 6px 8px;
@@ -47,15 +47,15 @@ export default {
   font-weight: 800;
 }
 .data span {
-  font-size: 16px;
+  font-size: 15px;
   font-weight: 700;
-  width: 112px;
-  overflow: hidden;
+  /* width: auto; */
+  /* overflow: hidden;
   text-overflow: ellipsis;
-  white-space: nowrap;
+  white-space: nowrap; */
 }
 .data .action {
-  width: 30%;
+  width: 48%;
   display: flex;
   align-items: center;
   gap: 12px;
